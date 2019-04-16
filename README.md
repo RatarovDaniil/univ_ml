@@ -1,1 +1,1 @@
-# univ_ml
+# ML tasks
